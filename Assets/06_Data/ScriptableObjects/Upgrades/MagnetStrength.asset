@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6196a58663887346a7ada972f400357, type: 3}
+  m_Name: MagnetStrength
+  m_EditorClassIdentifier: Assembly-CSharp::_10_Hyunwoo.Scripts.StatSO
+  statName: "\uC790\uC11D \uC138\uAE30"
+  description: "\uC790\uAE30\uC7A5 +20% \xB7 \uC804\uB825 \uC99D\uAC00"
+  icon: {fileID: 21300000, guid: 8f9006358a113fc44b22d060d68f16ba, type: 3}
+  maxLevel: 5
+  upgradeCosts: e8030000b80b00002823000078690000683c0100
+  upgradeStats: 64000000780000008c000000a0000000b4000000c8000000
+  effect: 4

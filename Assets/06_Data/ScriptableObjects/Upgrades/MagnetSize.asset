@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6196a58663887346a7ada972f400357, type: 3}
+  m_Name: MagnetSize
+  m_EditorClassIdentifier: Assembly-CSharp::_10_Hyunwoo.Scripts.StatSO
+  statName: "\uC790\uC11D \uD06C\uAE30"
+  description: "\uC720\uD6A8 \uC790\uAE30\uC120\uC18D +10%"
+  icon: {fileID: 21300000, guid: 8f9006358a113fc44b22d060d68f16ba, type: 3}
+  maxLevel: 5
+  upgradeCosts: dc05000094110000bc340000349e00009cda0100
+  upgradeStats: 640000006e00000078000000820000008c00000096000000
+  effect: 5

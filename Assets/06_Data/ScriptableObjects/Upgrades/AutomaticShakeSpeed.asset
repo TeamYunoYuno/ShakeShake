@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6196a58663887346a7ada972f400357, type: 3}
+  m_Name: AutomaticShakeSpeed
+  m_EditorClassIdentifier: Assembly-CSharp::_10_Hyunwoo.Scripts.StatSO
+  statName: "\uC790\uB3D9 \uD754\uB4E4\uAE30 \uC18D\uB3C4"
+  description: "\uD574\uAE08 \uD6C4 \uC18D\uB3C4 +20%"
+  icon: {fileID: 21300000, guid: 870dd4f1007f3664a9266a8b9b6a2980, type: 3}
+  maxLevel: 5
+  upgradeCosts: b80b00002823000078690000683c010038b50300
+  upgradeStats: 64000000780000008c000000a0000000b4000000c8000000
+  effect: 8

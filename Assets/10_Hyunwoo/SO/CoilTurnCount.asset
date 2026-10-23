@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6196a58663887346a7ada972f400357, type: 3}
   m_Name: CoilTurnCount
   m_EditorClassIdentifier: Assembly-CSharp::_10_Hyunwoo.Scripts.StatSO
-  statName: StatSO
-  maxLevel: 0
-  upgradeCosts: 
-  upgradeStats: 
+  statName: "\uCF54\uC77C \uAC10\uC740 \uC218"
+  description: "\uBC1C\uC804 \uAE30\uBCF8\uCE58 \uC0C1\uC2B9"
+  icon: {fileID: 21300000, guid: b557394b17ccf8742aa76e88f7bca56b, type: 3}
+  maxLevel: 6
+  upgradeCosts: f4010000b80b000050460000e0a5010040e3090080533b00
+  upgradeStats: 01000000020000000300000004000000050000000600000007000000
+  effect: 1
